@@ -138,11 +138,6 @@ Calcium supplementation:
   - Haryanto et al. (2015) - Indonesia
   - Sofyani & Lelo (2017) / Sofyani et al. (2020) - Indonesia
 
-Excluded:
-  - Wolf et al. (2003) - Case-control design, not RCT
-  - Duplicate or republication rows with missing variance information
-
-
 NOTES
 -----
 
