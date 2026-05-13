@@ -17,7 +17,7 @@ A Systematic Review and Meta-Analysis of Randomized Controlled Trials_
 
 ## Replication package
 
-The replication package is intentionally narrow. It is set up to reproduce only
+The replication package is is set up to reproduce only
 the figures and scalar result files used in the manuscript.
 
 From Stata, run:
