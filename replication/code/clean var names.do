@@ -53,7 +53,7 @@
 	rename dropoutrate                    dropout_rate
 	rename werethekidsirondeficient       deficiency
 	rename studysampleeligibilitycriteri  elig_criteria
-	rename whatseperatesthisrowfromthe    effect_variant
+	rename whatseperatesthisrowfromoth    effect_variant
 	ren 	comliancerateestimate		  compliance_est
 
 	destring(effect_str)	, gen(effect) force
